@@ -168,7 +168,7 @@
             android:background="@drawable/res_layer_transparent_stroke1dp_main_color"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_main_color_all"/>
+            android:text="res_layer_transparent_stroke1dp_main_color"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -177,7 +177,7 @@
             android:background="@drawable/res_layer_transparent_stroke1dp_main_color_corner5dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_main_color_all_corner5dp_all"/>
+            android:text="res_layer_transparent_stroke1dp_main_color_corner5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -186,7 +186,7 @@
             android:background="@drawable/res_layer_transparent_stroke1dp_main_color_corner40dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_main_color_all_corner40dp_all"/>
+            android:text="res_layer_transparent_stroke1dp_main_color_corner40dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -195,7 +195,7 @@
             android:background="@drawable/res_layer_transparent_stroke1dp_white"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_white_all"/>
+            android:text="res_layer_transparent_stroke1dp_white"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -204,7 +204,7 @@
             android:background="@drawable/res_layer_transparent_stroke1dp_white_corner5dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_white_all_corner5dp_all"/>
+            android:text="res_layer_transparent_stroke1dp_white_corner5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -213,7 +213,7 @@
             android:background="@drawable/res_layer_transparent_stroke1dp_white_corner40dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_white_all_corner40dp_all"/>
+            android:text="res_layer_transparent_stroke1dp_white_corner40dp"/>
 
         <!-- white -->
 
