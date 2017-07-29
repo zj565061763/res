@@ -29,7 +29,7 @@
             android:background="@drawable/res_layer_gray_c5dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_gray_corner5dp"/>
+            android:text="res_layer_gray_c5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -38,7 +38,7 @@
             android:background="@drawable/res_layer_gray_c5dp1"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_gray_corner5dp1"/>
+            android:text="res_layer_gray_c5dp1"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -47,7 +47,7 @@
             android:background="@drawable/res_layer_gray_c5dp2"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_gray_corner5dp2"/>
+            android:text="res_layer_gray_c5dp2"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -56,7 +56,7 @@
             android:background="@drawable/res_layer_gray_c5dp3"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_gray_corner5dp3"/>
+            android:text="res_layer_gray_c5dp3"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -65,7 +65,7 @@
             android:background="@drawable/res_layer_gray_c5dp4"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_gray_corner5dp4"/>
+            android:text="res_layer_gray_c5dp4"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -74,7 +74,7 @@
             android:background="@drawable/res_layer_gray_c5dp12"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_gray_corner5dp12"/>
+            android:text="res_layer_gray_c5dp12"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -83,7 +83,7 @@
             android:background="@drawable/res_layer_gray_c5dp14"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_gray_corner5dp14"/>
+            android:text="res_layer_gray_c5dp14"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -92,7 +92,7 @@
             android:background="@drawable/res_layer_gray_c5dp23"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_gray_corner5dp23"/>
+            android:text="res_layer_gray_c5dp23"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -101,7 +101,7 @@
             android:background="@drawable/res_layer_gray_c5dp34"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_gray_corner5dp34"/>
+            android:text="res_layer_gray_c5dp34"/>
 
         <!-- main color -->
 
@@ -121,7 +121,7 @@
             android:background="@drawable/res_layer_main_color_c5dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_main_color_corner5dp"/>
+            android:text="res_layer_main_color_c5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -130,7 +130,7 @@
             android:background="@drawable/res_layer_main_color_c40dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_main_color_corner40dp"/>
+            android:text="res_layer_main_color_c40dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -148,7 +148,7 @@
             android:background="@drawable/res_layer_main_color_press_c5dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_main_color_press_corner5dp"/>
+            android:text="res_layer_main_color_press_c5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -157,7 +157,7 @@
             android:background="@drawable/res_layer_main_color_press_c40dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_main_color_press_corner40dp"/>
+            android:text="res_layer_main_color_press_c40dp"/>
 
         <!-- transparent -->
 
@@ -168,7 +168,7 @@
             android:background="@drawable/res_layer_transparent_s1dp_main_color"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_main_color"/>
+            android:text="res_layer_transparent_s1dp_main_color"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -177,7 +177,7 @@
             android:background="@drawable/res_layer_transparent_s1dp_main_color_c5dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_main_color_corner5dp"/>
+            android:text="res_layer_transparent_s1dp_main_color_c5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -186,7 +186,7 @@
             android:background="@drawable/res_layer_transparent_s1dp_main_color_c40dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_main_color_corner40dp"/>
+            android:text="res_layer_transparent_s1dp_main_color_c40dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -195,7 +195,7 @@
             android:background="@drawable/res_layer_transparent_s1dp_white"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_white"/>
+            android:text="res_layer_transparent_s1dp_white"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -204,7 +204,7 @@
             android:background="@drawable/res_layer_transparent_s1dp_white_c5dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_white_corner5dp"/>
+            android:text="res_layer_transparent_s1dp_white_c5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -213,7 +213,7 @@
             android:background="@drawable/res_layer_transparent_s1dp_white_c40dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_transparent_stroke1dp_white_corner40dp"/>
+            android:text="res_layer_transparent_s1dp_white_c40dp"/>
 
         <!-- white -->
 
@@ -233,7 +233,7 @@
             android:background="@drawable/res_layer_white_c5dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_corner5dp"/>
+            android:text="res_layer_white_c5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -242,7 +242,7 @@
             android:background="@drawable/res_layer_white_c5dp1"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_corner5dp1"/>
+            android:text="res_layer_white_c5dp1"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -251,7 +251,7 @@
             android:background="@drawable/res_layer_white_c5dp2"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_corner5dp2"/>
+            android:text="res_layer_white_c5dp2"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -260,7 +260,7 @@
             android:background="@drawable/res_layer_white_c5dp3"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_corner5dp3"/>
+            android:text="res_layer_white_c5dp3"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -269,7 +269,7 @@
             android:background="@drawable/res_layer_white_c5dp4"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_corner5dp4"/>
+            android:text="res_layer_white_c5dp4"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -278,7 +278,7 @@
             android:background="@drawable/res_layer_white_c5dp12"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_corner5dp12"/>
+            android:text="res_layer_white_c5dp12"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -287,7 +287,7 @@
             android:background="@drawable/res_layer_white_c5dp14"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_corner5dp14"/>
+            android:text="res_layer_white_c5dp14"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -296,7 +296,7 @@
             android:background="@drawable/res_layer_white_c5dp23"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_corner5dp23"/>
+            android:text="res_layer_white_c5dp23"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -305,7 +305,7 @@
             android:background="@drawable/res_layer_white_c5dp34"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_corner5dp34"/>
+            android:text="res_layer_white_c5dp34"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -314,7 +314,7 @@
             android:background="@drawable/res_layer_white_s1px"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_stroke1px"/>
+            android:text="res_layer_white_s1px"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -323,7 +323,7 @@
             android:background="@drawable/res_layer_white_s1px_c5dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_stroke1px_corner5dp"/>
+            android:text="res_layer_white_s1px_c5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -332,7 +332,7 @@
             android:background="@drawable/res_layer_white_s1pxb"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_stroke1pxb"/>
+            android:text="res_layer_white_s1pxb"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -341,7 +341,7 @@
             android:background="@drawable/res_layer_white_s1pxblr"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_stroke1pxblr"/>
+            android:text="res_layer_white_s1pxblr"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -350,7 +350,7 @@
             android:background="@drawable/res_layer_white_s1pxblr_c5dp34"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_stroke1pxblr_corner5dp34"/>
+            android:text="res_layer_white_s1pxblr_c5dp34"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -359,7 +359,7 @@
             android:background="@drawable/res_layer_white_s1pxl"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_stroke1pxl"/>
+            android:text="res_layer_white_s1pxl"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -368,7 +368,7 @@
             android:background="@drawable/res_layer_white_s1pxr"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_stroke1pxr"/>
+            android:text="res_layer_white_s1pxr"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -377,7 +377,7 @@
             android:background="@drawable/res_layer_white_s1pxt"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_stroke1pxt"/>
+            android:text="res_layer_white_s1pxt"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -386,7 +386,7 @@
             android:background="@drawable/res_layer_white_s1pxtb"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_stroke1pxtb"/>
+            android:text="res_layer_white_s1pxtb"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -395,7 +395,7 @@
             android:background="@drawable/res_layer_white_s1pxtlr"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_stroke1pxtlr"/>
+            android:text="res_layer_white_s1pxtlr"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -404,7 +404,7 @@
             android:background="@drawable/res_layer_white_s1pxtlr_c5dp12"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_white_stroke1pxtlr_corner5dp12"/>
+            android:text="res_layer_white_s1pxtlr_c5dp12"/>
 
         <!-- selector -->
 
@@ -426,7 +426,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_main_color_corner5dp"/>
+            android:text="res_selector_main_color_c5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -436,7 +436,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_main_color_corner40dp"/>
+            android:text="res_selector_main_color_c40dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -486,7 +486,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1px"/>
+            android:text="res_selector_white_gray_s1px"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -496,7 +496,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1px_corner5dp"/>
+            android:text="res_selector_white_gray_s1px_c5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -506,7 +506,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1pxb"/>
+            android:text="res_selector_white_gray_s1pxb"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -516,7 +516,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1pxblr"/>
+            android:text="res_selector_white_gray_s1pxblr"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -526,7 +526,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1pxblr_corner5dp34"/>
+            android:text="res_selector_white_gray_s1pxblr_c5dp34"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -536,7 +536,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1pxt"/>
+            android:text="res_selector_white_gray_s1pxt"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -546,7 +546,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1pxtb"/>
+            android:text="res_selector_white_gray_s1pxtb"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -556,7 +556,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1pxtlr"/>
+            android:text="res_selector_white_gray_s1pxtlr"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -566,7 +566,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1pxtlr_corner5dp12"/>
+            android:text="res_selector_white_gray_s1pxtlr_c5dp12"/>
 
     </LinearLayout>
 
