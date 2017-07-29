@@ -456,7 +456,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1px_all"/>
+            android:text="res_selector_white_gray_stroke1px"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -466,7 +466,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1px_all_corner5dp_all"/>
+            android:text="res_selector_white_gray_stroke1px_corner5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -476,7 +476,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1px_b"/>
+            android:text="res_selector_white_gray_stroke1pxb"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -486,7 +486,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1px_blr"/>
+            android:text="res_selector_white_gray_stroke1pxblr"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -496,7 +496,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1px_blr_corner5dp_34"/>
+            android:text="res_selector_white_gray_stroke1pxblr_corner5dp34"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -506,7 +506,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1px_t"/>
+            android:text="res_selector_white_gray_stroke1pxt"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -516,7 +516,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1px_tb"/>
+            android:text="res_selector_white_gray_stroke1pxtb"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -526,7 +526,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1px_tlr"/>
+            android:text="res_selector_white_gray_stroke1pxtlr"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -536,7 +536,7 @@
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_white_gray_stroke1px_tlr_corner5dp_12"/>
+            android:text="res_selector_white_gray_stroke1pxtlr_corner5dp12"/>
 
     </LinearLayout>
 
