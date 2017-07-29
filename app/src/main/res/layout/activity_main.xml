@@ -15,9 +15,217 @@
             android:layout_width="match_parent"
             android:layout_height="30dp"
             android:layout_margin="5dp"
+            android:background="@drawable/res_layer_gray"
+            android:gravity="center"
+            android:text="res_layer_gray"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_gray_corner5dp_1"
+            android:gravity="center"
+            android:text="res_layer_gray_corner5dp_1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_gray_corner5dp_2"
+            android:gravity="center"
+            android:text="res_layer_gray_corner5dp_2"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_gray_corner5dp_3"
+            android:gravity="center"
+            android:text="res_layer_gray_corner5dp_3"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_gray_corner5dp_4"
+            android:gravity="center"
+            android:text="res_layer_gray_corner5dp_4"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_gray_corner5dp_12"
+            android:gravity="center"
+            android:text="res_layer_gray_corner5dp_12"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_gray_corner5dp_14"
+            android:gravity="center"
+            android:text="res_layer_gray_corner5dp_14"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_gray_corner5dp_23"
+            android:gravity="center"
+            android:text="res_layer_gray_corner5dp_23"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_gray_corner5dp_34"
+            android:gravity="center"
+            android:text="res_layer_gray_corner5dp_34"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_gray_corner5dp_all"
+            android:gravity="center"
+            android:text="res_layer_gray_corner5dp_all"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_main_color"
+            android:gravity="center"
+            android:text="res_layer_main_color"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_main_color_corner5dp_all"
+            android:gravity="center"
+            android:text="res_layer_main_color_corner5dp_all"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_main_color_corner40dp_all"
+            android:gravity="center"
+            android:text="res_layer_main_color_corner40dp_all"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_main_color_press"
+            android:gravity="center"
+            android:text="res_layer_main_color_press"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_main_color_press_corner5dp_all"
+            android:gravity="center"
+            android:text="res_layer_main_color_press_corner5dp_all"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_main_color_press_corner40dp_all"
+            android:gravity="center"
+            android:text="res_layer_main_color_press_corner40dp_all"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white"
+            android:gravity="center"
+            android:text="res_layer_white"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white_corner5dp_1"
+            android:gravity="center"
+            android:text="res_layer_white_corner5dp_1"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white_corner5dp_2"
+            android:gravity="center"
+            android:text="res_layer_white_corner5dp_2"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white_corner5dp_3"
+            android:gravity="center"
+            android:text="res_layer_white_corner5dp_3"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white_corner5dp_4"
+            android:gravity="center"
+            android:text="res_layer_white_corner5dp_4"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white_corner5dp_12"
+            android:gravity="center"
+            android:text="res_layer_white_corner5dp_12"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white_corner5dp_14"
+            android:gravity="center"
+            android:text="res_layer_white_corner5dp_14"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white_corner5dp_23"
+            android:gravity="center"
+            android:text="res_layer_white_corner5dp_23"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white_corner5dp_34"
+            android:gravity="center"
+            android:text="res_layer_white_corner5dp_34"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white_corner5dp_all"
+            android:gravity="center"
+            android:text="res_layer_white_corner5dp_all"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
             android:background="@drawable/res_layer_white_stroke1px_all"
             android:gravity="center"
-            android:text="res_layer_white_stroke1px_all"/>
+            android:text="res_layer_white_corner5dp_all"/>
 
         <TextView
             android:layout_width="match_parent"
