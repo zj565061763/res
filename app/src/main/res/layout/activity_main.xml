@@ -11,6 +11,8 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
+        <!-- gray -->
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -101,6 +103,8 @@
             android:minHeight="30dp"
             android:text="res_layer_gray_corner5dp_all"/>
 
+        <!-- main color -->
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -155,6 +159,8 @@
             android:minHeight="30dp"
             android:text="res_layer_main_color_press_corner40dp_all"/>
 
+        <!-- transparent -->
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -172,6 +178,17 @@
             android:gravity="center"
             android:minHeight="30dp"
             android:text="res_layer_transparent_stroke1dp_main_color_all_corner5dp_all"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_transparent_stroke1dp_main_color_all_corner40dp_all"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_layer_transparent_stroke1dp_main_color_all_corner40dp_all"/>
+
+        <!-- white -->
 
         <TextView
             android:layout_width="match_parent"
