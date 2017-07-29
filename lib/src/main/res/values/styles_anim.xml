@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="res.Anim.SlidingBottomBottom" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/res_dialog_enter_sliding_from_bottom</item>
+        <item name="@android:windowExitAnimation">@anim/res_dialog_exit_sliding_to_bottom</item>
+    </style>
+
+    <style name="res.Anim.SlidingTopTop" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/res_dialog_enter_sliding_from_top</item>
+        <item name="@android:windowExitAnimation">@anim/res_dialog_exit_sliding_to_top</item>
+    </style>
+
+</resources>

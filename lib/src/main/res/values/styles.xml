@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="res.Theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <item name="colorPrimary">@color/res_main_color</item>
+        <item name="colorAccent">@color/res_main_color</item>
+    </style>
+
+</resources>
