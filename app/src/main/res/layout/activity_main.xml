@@ -409,34 +409,44 @@
         <!-- selector -->
 
         <TextView
+            android:id="@+id/res_selector_white_gray"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:background="@drawable/res_selector_white_gray"
-            android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
             android:text="res_selector_white_gray"/>
 
         <TextView
+            android:id="@+id/res_selector_white_gray_stroke1px_all"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:background="@drawable/res_selector_white_gray_stroke1px_all"
-            android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
             android:text="res_selector_white_gray_stroke1px_all"/>
 
         <TextView
+            android:id="@+id/res_selector_white_gray_stroke1px_b"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:background="@drawable/res_selector_white_gray_stroke1px_b"
-            android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
             android:text="res_selector_white_gray_stroke1px_b"/>
+
+        <TextView
+            android:id="@+id/res_selector_white_gray_stroke1px_blr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_selector_white_gray_stroke1px_blr"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_selector_white_gray_stroke1px_blr"/>
 
     </LinearLayout>
 
