@@ -1,0 +1,7 @@
+<resources>
+
+    <dimen name="res_width_stroke_1px">1dp</dimen>
+    <dimen name="res_corner_5dp">10dp</dimen>
+
+
+</resources>
