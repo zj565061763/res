@@ -4,6 +4,6 @@
     <item android:drawable="@drawable/res_layer_white_s1pxblr_c5dp34"
           android:state_pressed="false"/>
 
-    <item android:drawable="@drawable/res_layer_gray_c5dp34" android:state_pressed="true"/>
+    <item android:drawable="@drawable/res_layer_gray_s1pxblr_c5dp34" android:state_pressed="true"/>
 
 </selector>
