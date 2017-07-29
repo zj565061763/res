@@ -10,7 +10,7 @@
         style="@style/res.Text.Shadow"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/res_layer_gray_corner5dp_3"
+        android:background="@drawable/res_layer_white_stroke1px_blr_corner5dp_34"
         android:text="Hello World!"/>
 
     <EditText
