@@ -452,6 +452,26 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
+            android:background="@drawable/res_selector_white_gray_stroke1px_t"
+            android:clickable="true"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_selector_white_gray_stroke1px_t"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_selector_white_gray_stroke1px_tb"
+            android:clickable="true"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_selector_white_gray_stroke1px_tb"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:background="@drawable/res_selector_white_gray_stroke1px_tlr"
             android:clickable="true"
             android:gravity="center"
