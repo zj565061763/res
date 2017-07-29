@@ -406,6 +406,29 @@
             android:minHeight="30dp"
             android:text="res_layer_white_stroke1px_tlr_corner5dp_12"/>
 
+        <!-- selector -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_selector_white_gray"
+            android:clickable="true"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_selector_white_gray"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_selector_white_gray_stroke1px_all"
+            android:clickable="true"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_selector_white_gray_stroke1px_all"/>
+
+
     </LinearLayout>
 
 </ScrollView>
