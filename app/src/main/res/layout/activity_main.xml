@@ -412,21 +412,31 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
-            android:background="@drawable/res_selector_mcolor_mcolor_press"
+            android:background="@drawable/res_selector_main_color"
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_mcolor_mcolor_press"/>
+            android:text="res_selector_main_color"/>
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
-            android:background="@drawable/res_selector_mcolor_mcolor_press_corner5dp"
+            android:background="@drawable/res_selector_main_color_corner5dp"
             android:clickable="true"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_selector_mcolor_mcolor_press_corner5dp"/>
+            android:text="res_selector_main_color_corner5dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_selector_main_color_corner40dp"
+            android:clickable="true"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_selector_main_color_corner40dp"/>
 
         <TextView
             android:layout_width="match_parent"
