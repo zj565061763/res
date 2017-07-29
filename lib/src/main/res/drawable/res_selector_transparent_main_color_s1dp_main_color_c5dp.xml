@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item android:drawable="@drawable/res_layer_transparent_stroke1dp_main_color_corner5dp"
+    <item android:drawable="@drawable/res_layer_transparent_s1dp_main_color_c5dp"
           android:state_pressed="false"/>
 
-    <item android:drawable="@drawable/res_layer_main_color_corner5dp" android:state_pressed="true"/>
+    <item android:drawable="@drawable/res_layer_main_color_c5dp" android:state_pressed="true"/>
 
 </selector>
