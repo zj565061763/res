@@ -121,7 +121,7 @@
             android:background="@drawable/res_layer_main_color_corner5dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_main_color_corner5dp_all"/>
+            android:text="res_layer_main_color_corner5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -130,7 +130,7 @@
             android:background="@drawable/res_layer_main_color_corner40dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_main_color_corner40dp_all"/>
+            android:text="res_layer_main_color_corner40dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -148,7 +148,7 @@
             android:background="@drawable/res_layer_main_color_press_corner5dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_main_color_press_corner5dp_all"/>
+            android:text="res_layer_main_color_press_corner5dp"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -157,7 +157,7 @@
             android:background="@drawable/res_layer_main_color_press_corner40dp"
             android:gravity="center"
             android:minHeight="30dp"
-            android:text="res_layer_main_color_press_corner40dp_all"/>
+            android:text="res_layer_main_color_press_corner40dp"/>
 
         <!-- transparent -->
 
