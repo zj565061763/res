@@ -498,6 +498,16 @@
             android:minHeight="30dp"
             android:text="res_selector_white_gray_stroke1px_tlr"/>
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_selector_white_gray_stroke1px_tlr_corner5dp_12"
+            android:clickable="true"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_selector_white_gray_stroke1px_tlr_corner5dp_12"/>
+
     </LinearLayout>
 
 </ScrollView>
