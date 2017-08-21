@@ -16,21 +16,12 @@
     <!-- 标题栏文字颜色 -->
     <color name="res_text_title_bar">@color/white</color>
 
-
-
-    <!-- 标题文字颜色 -->
-    <color name="res_text_title">#555555</color>
-    <!-- 内容文字颜色 -->
-    <color name="res_text_content">#999999</color>
-    <!-- 内容文字深的颜色 -->
-    <color name="res_text_content_deep">#777777</color>
-
-    <!-- item标题文字颜色 -->
-    <color name="res_text_item_title">@color/res_text_title</color>
-    <!-- item内容文字颜色 -->
-    <color name="res_text_item_content">#a8a8a8</color>
-    <!-- item内容文字深的颜色 -->
-    <color name="res_text_item_content_deep">@color/res_text_content_deep</color>
+    <!-- 灰色文字（深） -->
+    <color name="res_text_gray_large">#333333</color>
+    <!-- 灰色文字（中） -->
+    <color name="res_text_gray_medium">#666666</color>
+    <!-- 灰色文字（浅） -->
+    <color name="res_text_gray_small">#999999</color>
 
     <!-- 输入框hint颜色 -->
     <color name="res_text_hint">#cbcbcb</color>
@@ -39,6 +30,7 @@
     <color name="res_stroke">#e5e5e5</color>
     <!-- 分割线颜色 深 -->
     <color name="res_stroke_deep">#e5e5e5</color>
+
     <!-- 灰色按下颜色 -->
     <color name="res_gray_press">#e5e5e5</color>
     <!-- 文字阴影颜色 -->
