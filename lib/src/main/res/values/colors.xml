@@ -6,7 +6,7 @@
     <!-- 主题颜色按下颜色 -->
     <color name="res_main_color_press">#ffcc66</color>
 
-    <!-- activity或者fragment等通用背景颜色 -->
+    <!-- activity背景颜色 -->
     <color name="res_bg_activity">#f7f7f7</color>
     <!-- 标题栏颜色 -->
     <color name="res_bg_title_bar">@color/res_main_color</color>
@@ -15,6 +15,8 @@
 
     <!-- 标题栏文字颜色 -->
     <color name="res_text_title_bar">@color/white</color>
+
+
 
     <!-- 标题文字颜色 -->
     <color name="res_text_title">#555555</color>
