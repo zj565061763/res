@@ -529,6 +529,28 @@
             android:minHeight="30dp"
             android:text="res_sel_white_gray_stroke_corner"/>
 
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_sel_white_gray_stroke_corner12"
+            android:clickable="true"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_sel_white_gray_stroke_corner12"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_sel_white_gray_stroke_corner34"
+            android:clickable="true"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_sel_white_gray_stroke_corner34"/>
+
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -549,15 +571,6 @@
             android:minHeight="30dp"
             android:text="res_sel_white_gray_strokeblr"/>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="5dp"
-            android:background="@drawable/res_sel_white_gray_strokeblr_corner34"
-            android:clickable="true"
-            android:gravity="center"
-            android:minHeight="30dp"
-            android:text="res_sel_white_gray_strokeblr_corner34"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -589,15 +602,6 @@
             android:minHeight="30dp"
             android:text="res_sel_white_gray_stroketlr"/>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="5dp"
-            android:background="@drawable/res_sel_white_gray_stroketlr_corner12"
-            android:clickable="true"
-            android:gravity="center"
-            android:minHeight="30dp"
-            android:text="res_sel_white_gray_stroketlr_corner12"/>
 
     </LinearLayout>
 
