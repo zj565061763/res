@@ -7,9 +7,9 @@
     <dimen name="res_size_stroke_1px">1px</dimen>
     <dimen name="res_size_stroke_1dp">1dp</dimen>
     <!-- 圆角半径 -->
-    <dimen name="res_corner_5dp">5dp</dimen>
-    <dimen name="res_corner_10dp">10dp</dimen>
-    <dimen name="res_corner_20dp">20dp</dimen>
+    <dimen name="res_corner_small">5dp</dimen>
+    <dimen name="res_corner_medium">10dp</dimen>
+    <dimen name="res_corner_large">20dp</dimen>
     <dimen name="res_corner_40dp">40dp</dimen>
 
     <!-- 标题栏文字大小 -->

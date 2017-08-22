@@ -6,7 +6,7 @@
 
     <style name="res.Text" parent="res.Text.Base">
         <item name="android:text">@string/res_loading</item>
-        <item name="android:textColor">@color/res_text_content</item>
+        <item name="android:textColor">@color/res_text_gray_medium</item>
         <item name="android:textSize">@dimen/res_text_medium</item>
         <item name="android:ellipsize">end</item>
     </style>
@@ -18,33 +18,11 @@
         <item name="android:shadowDx">2</item>
     </style>
 
-    <style name="res.Text.Title" parent="res.Text">
-        <item name="android:textColor">@color/res_text_title</item>
-        <item name="android:textSize">@dimen/res_text_large</item>
-    </style>
-
-    <style name="res.Text.Content" parent="res.Text">
-        <item name="android:textColor">@color/res_text_content</item>
-        <item name="android:textSize">@dimen/res_text_medium</item>
-    </style>
-
-    <style name="res.Text.Item.Title" parent="res.Text">
-        <item name="android:textColor">@color/res_text_item_title</item>
-        <item name="android:textSize">@dimen/res_text_item_title</item>
-        <item name="android:maxLines">1</item>
-    </style>
-
-    <style name="res.Text.Item.Content" parent="res.Text">
-        <item name="android:textColor">@color/res_text_item_content</item>
-        <item name="android:textSize">@dimen/res_text_item_content</item>
-        <item name="android:maxLines">2</item>
-    </style>
-
     <style name="res.Edit.Base">
     </style>
 
     <style name="res.Edit" parent="res.Edit.Base">
-        <item name="android:textColor">@color/res_text_content</item>
+        <item name="android:textColor">@color/res_text_gray_medium</item>
         <item name="android:textSize">@dimen/res_text_medium</item>
         <item name="android:ellipsize">end</item>
         <item name="android:paddingLeft">5dp</item>

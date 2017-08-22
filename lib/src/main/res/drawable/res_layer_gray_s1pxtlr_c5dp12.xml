@@ -5,8 +5,8 @@
         <shape android:shape="rectangle">
             <solid android:color="@color/res_stroke"/>
 
-            <corners android:topLeftRadius="@dimen/res_corner_5dp"
-                     android:topRightRadius="@dimen/res_corner_5dp"/>
+            <corners android:topLeftRadius="@dimen/res_corner_small"
+                     android:topRightRadius="@dimen/res_corner_small"/>
         </shape>
     </item>
     <item
@@ -16,8 +16,8 @@
         <shape android:shape="rectangle">
             <solid android:color="@color/res_gray_press"/>
 
-            <corners android:topLeftRadius="@dimen/res_corner_5dp"
-                     android:topRightRadius="@dimen/res_corner_5dp"/>
+            <corners android:topLeftRadius="@dimen/res_corner_small"
+                     android:topRightRadius="@dimen/res_corner_small"/>
         </shape>
     </item>
 
