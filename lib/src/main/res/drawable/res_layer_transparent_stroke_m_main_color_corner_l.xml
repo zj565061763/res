@@ -9,7 +9,7 @@
                 android:width="@dimen/res_size_stroke_medium"
                 android:color="@color/res_main_color"/>
 
-            <corners android:radius="@dimen/res_corner_40dp"/>
+            <corners android:radius="@dimen/res_corner_large"/>
         </shape>
     </item>
 
