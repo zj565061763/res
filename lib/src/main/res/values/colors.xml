@@ -27,7 +27,7 @@
     <color name="res_text_hint">#cbcbcb</color>
 
     <!-- 分割线颜色 -->
-    <color name="res_stroke">#e5e5e5</color>
+    <color name="res_stroke">#e7e7f1</color>
     <!-- 分割线颜色 深 -->
     <color name="res_stroke_deep">#e5e5e5</color>
 
