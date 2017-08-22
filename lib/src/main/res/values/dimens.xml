@@ -24,7 +24,7 @@
     <dimen name="res_height_title_item_image">25dp</dimen>
 
     <!-- 标题文字（大） -->
-    <dimen name="res_text_large">17sp</dimen>
+    <dimen name="res_text_large">16sp</dimen>
     <!-- 内容文字（中） -->
     <dimen name="res_text_medium">14sp</dimen>
     <!-- 内容文字（小） -->
