@@ -6,10 +6,10 @@
             <solid android:color="@color/transparent"/>
 
             <stroke
-                android:width="@dimen/res_size_stroke_medium"
+                android:width="@dimen/res_size_stroke_m"
                 android:color="@color/white"/>
 
-            <corners android:radius="@dimen/res_corner_small"/>
+            <corners android:radius="@dimen/res_corner_s"/>
         </shape>
     </item>
 

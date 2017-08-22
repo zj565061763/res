@@ -7,7 +7,7 @@
     <style name="res.Text" parent="res.Text.Base">
         <item name="android:text">@string/res_loading</item>
         <item name="android:textColor">@color/res_text_gray_medium</item>
-        <item name="android:textSize">@dimen/res_text_medium</item>
+        <item name="android:textSize">@dimen/res_text_m</item>
         <item name="android:ellipsize">end</item>
     </style>
 
@@ -23,7 +23,7 @@
 
     <style name="res.Edit" parent="res.Edit.Base">
         <item name="android:textColor">@color/res_text_gray_medium</item>
-        <item name="android:textSize">@dimen/res_text_medium</item>
+        <item name="android:textSize">@dimen/res_text_m</item>
         <item name="android:ellipsize">end</item>
         <item name="android:paddingLeft">5dp</item>
         <item name="android:paddingRight">5dp</item>
