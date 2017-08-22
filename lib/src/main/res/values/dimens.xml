@@ -42,14 +42,4 @@
     <!-- dialog的标题字体大小 -->
     <dimen name="res_text_dialog_title">16sp</dimen>
 
-    <dimen name="res_padding_5dp">5dp</dimen>
-    <dimen name="res_padding_10dp">10dp</dimen>
-    <dimen name="res_padding_15dp">15dp</dimen>
-    <dimen name="res_padding_20dp">20dp</dimen>
-
-    <dimen name="res_margin_5dp">5dp</dimen>
-    <dimen name="res_margin_10dp">10dp</dimen>
-    <dimen name="res_margin_15dp">15dp</dimen>
-    <dimen name="res_margin_20dp">20dp</dimen>
-
 </resources>
