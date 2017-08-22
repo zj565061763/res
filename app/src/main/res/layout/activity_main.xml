@@ -358,6 +358,24 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white_stroke_corner12"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_layer_white_stroke_corner12"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/res_layer_white_stroke_corner34"
+            android:gravity="center"
+            android:minHeight="30dp"
+            android:text="res_layer_white_stroke_corner34"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:background="@drawable/res_layer_white_strokeb"
             android:gravity="center"
             android:minHeight="30dp"
@@ -372,14 +390,6 @@
             android:minHeight="30dp"
             android:text="res_layer_white_strokeblr"/>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="5dp"
-            android:background="@drawable/res_layer_white_strokeblr_corner34"
-            android:gravity="center"
-            android:minHeight="30dp"
-            android:text="res_layer_white_strokeblr_corner34"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -426,14 +436,6 @@
             android:minHeight="30dp"
             android:text="res_layer_white_stroketlr"/>
 
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="5dp"
-            android:background="@drawable/res_layer_white_stroketlr_corner12"
-            android:gravity="center"
-            android:minHeight="30dp"
-            android:text="res_layer_white_stroketlr_corner12"/>
 
         <TextView
             android:layout_width="match_parent"
