@@ -4,13 +4,13 @@
     <dimen name="res_height_title_bar">46dp</dimen>
 
     <!-- 边框宽度 -->
-    <dimen name="res_size_stroke_1px">1px</dimen>
-    <dimen name="res_size_stroke_1dp">1dp</dimen>
+    <dimen name="res_size_stroke_small">1px</dimen>
+    <dimen name="res_size_stroke_medium">1dp</dimen>
+
     <!-- 圆角半径 -->
     <dimen name="res_corner_small">5dp</dimen>
     <dimen name="res_corner_medium">10dp</dimen>
-    <dimen name="res_corner_large">20dp</dimen>
-    <dimen name="res_corner_40dp">40dp</dimen>
+    <dimen name="res_corner_large">30dp</dimen>
 
     <!-- 标题栏文字大小 -->
     <dimen name="res_text_title_bar">18sp</dimen>

@@ -7,8 +7,8 @@
         </shape>
     </item>
     <item
-        android:bottom="@dimen/res_size_stroke_1px"
-        android:top="@dimen/res_size_stroke_1px">
+        android:bottom="@dimen/res_size_stroke_small"
+        android:top="@dimen/res_size_stroke_small">
         <shape android:shape="rectangle">
             <solid android:color="@color/res_gray_press"/>
         </shape>

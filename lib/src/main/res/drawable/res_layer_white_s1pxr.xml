@@ -6,7 +6,7 @@
             <solid android:color="@color/res_stroke"/>
         </shape>
     </item>
-    <item android:right="@dimen/res_size_stroke_1px">
+    <item android:right="@dimen/res_size_stroke_small">
         <shape android:shape="rectangle">
             <solid android:color="@color/white"/>
         </shape>
