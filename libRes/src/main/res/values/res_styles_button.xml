@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="res.Button.Base">
+    </style>
+
+    <style name="res.Button" parent="res.Button.Base">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/res_text_m</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:minHeight">@dimen/res_height_button</item>
+    </style>
+
+</resources>
