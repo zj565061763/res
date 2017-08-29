@@ -2,12 +2,10 @@
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item>
-        <shape android:shape="rectangle">
+        <shape android:shape="oval">
             <solid android:color="@color/transparent"/>
 
-            <stroke
-                android:width="@dimen/res_stroke_m"
-                android:color="@color/res_main_color"/>
+            <stroke android:width="@dimen/res_stroke_m" android:color="@color/white"/>
         </shape>
     </item>
 
