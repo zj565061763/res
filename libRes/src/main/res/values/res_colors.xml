@@ -8,6 +8,7 @@
 
     <!-- 副主题色 -->
     <color name="res_second_color">#fee203</color>
+    <color name="res_second_color_press">@color/res_second_color</color>
 
     <!-- activity背景颜色 -->
     <color name="res_bg_activity">#f7f7f7</color>
