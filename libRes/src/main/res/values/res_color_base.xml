@@ -11,7 +11,5 @@
     <color name="blue">#0000FF</color>
     <!-- 透明 -->
     <color name="transparent">#00000000</color>
-    <!-- 半透明 -->
-    <color name="blur">#77000000</color>
 
 </resources>
