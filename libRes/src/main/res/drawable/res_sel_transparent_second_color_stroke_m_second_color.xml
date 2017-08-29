@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/res_layer_transparent_stroke_m_second_color"
+          android:state_pressed="false"/>
+
+    <item android:drawable="@drawable/res_layer_second_color" android:state_pressed="true"/>
+
+</selector>
