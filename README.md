@@ -1,6 +1,6 @@
 # AndroidResource
 
-## res_colors_base
+## res_colors_base.xml
 ```xml
     <color name="black">#000000</color>
     <color name="white">#FFFFFF</color>
@@ -14,7 +14,7 @@
     <color name="transparent">#00000000</color>
 ```
 
-## res_colors
+## res_colors.xml
 ```xml
     <!-- 主题颜色 -->
     <color name="res_main_color">#FB6F08</color>
@@ -59,7 +59,7 @@
     <color name="res_text_shadow_color">#333333</color>
 ```
 
-## res_dimens
+## res_dimens.xml
 ```xml
     <!-- 标题栏高度 -->
     <dimen name="res_height_title_bar">45dp</dimen>
@@ -102,4 +102,115 @@
     <dimen name="res_text_dialog_button">14sp</dimen>
     <!-- dialog的标题字体大小 -->
     <dimen name="res_text_dialog_title">16sp</dimen>
+```
+
+## res_strings.xml
+```xml
+    <string name="res_loading">加载中</string>
+```
+
+## res_styles.xml
+```xml
+    <style name="res.Theme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="res.Theme.App" parent="res.Theme.Base">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <item name="colorPrimary">@color/res_main_color</item>
+        <item name="colorAccent">@color/res_main_color</item>
+    </style>
+```
+
+## res_styles_anim.xml
+```xml
+    <style name="res.Anim.SlidingBottomBottom" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/res_dialog_enter_sliding_from_bottom</item>
+        <item name="@android:windowExitAnimation">@anim/res_dialog_exit_sliding_to_bottom</item>
+    </style>
+
+    <style name="res.Anim.SlidingTopTop" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/res_dialog_enter_sliding_from_top</item>
+        <item name="@android:windowExitAnimation">@anim/res_dialog_exit_sliding_to_top</item>
+    </style>
+```
+
+## res_styles_button.xml
+```xml
+    <style name="res.Button.Base">
+    </style>
+
+    <style name="res.Button" parent="res.Button.Base">
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">@dimen/res_text_m</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:minHeight">@dimen/res_height_button</item>
+    </style>
+```
+
+## res_styles_dialog.xml
+```xml
+    <style name="res.Dialog.Base" parent="@android:style/Theme.DeviceDefault.Dialog">
+    </style>
+
+    <style name="res.Dialog" parent="res.Dialog.Base">
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 模糊 -->
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="res.Dialog.Dim" parent="res.Dialog">
+        <!-- 模糊 -->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+```
+
+## res_styles_edit.xml
+```xml
+    <style name="res.Edit.Base">
+    </style>
+
+    <style name="res.Edit" parent="res.Edit.Base">
+        <item name="android:textColor">@color/res_text_gray_m</item>
+        <item name="android:textSize">@dimen/res_text_m</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:minHeight">@dimen/res_height_edit</item>
+        <item name="android:textColorHint">@color/res_text_hint</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:imeOptions">actionNext</item>
+    </style>
+```
+
+## res_styles_text.xml
+```xml
+    <style name="res.Text.Base">
+    </style>
+
+    <style name="res.Text" parent="res.Text.Base">
+        <item name="android:text">@string/res_loading</item>
+        <item name="android:textColor">@color/res_text_gray_m</item>
+        <item name="android:textSize">@dimen/res_text_m</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="res.Text.Shadow" parent="res.Text">
+        <item name="android:shadowColor">@color/res_text_shadow_color</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowDx">2</item>
+    </style>
 ```
