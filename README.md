@@ -2,17 +2,18 @@
 [![](https://jitpack.io/v/zj565061763/res.svg)](https://jitpack.io/#zj565061763/res)
 
 ## Gradle
-```java
+```
 allprojects {
-    repositories {
-        ...
-        maven { url 'https://jitpack.io' }
-    }
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+	
+dependencies {
+	compile 'com.github.zj565061763:res:1.0.2'
 }
 
-dependencies {
-	        compile 'com.github.zj565061763:res:1.0.2'
-	}
 ```
 
 ## res_colors_base.xml
@@ -161,32 +162,6 @@ dependencies {
         <item name="android:textSize">@dimen/res_text_m</item>
         <item name="android:ellipsize">end</item>
         <item name="android:minHeight">@dimen/res_height_button</item>
-    </style>
-```
-
-## res_styles_dialog.xml
-```xml
-    <style name="res.Dialog.Base" parent="@android:style/Theme.DeviceDefault.Dialog">
-    </style>
-
-    <style name="res.Dialog" parent="res.Dialog.Base">
-        <!-- 边框 -->
-        <item name="android:windowFrame">@null</item>
-        <!-- 是否浮现在activity之上 -->
-        <item name="android:windowIsFloating">true</item>
-        <!-- 无标题 -->
-        <item name="android:windowNoTitle">true</item>
-        <!-- 背景透明 -->
-        <item name="android:windowBackground">@android:color/transparent</item>
-        <!-- 半透明 -->
-        <item name="android:windowIsTranslucent">false</item>
-        <!-- 模糊 -->
-        <item name="android:backgroundDimEnabled">false</item>
-    </style>
-
-    <style name="res.Dialog.Dim" parent="res.Dialog">
-        <!-- 模糊 -->
-        <item name="android:backgroundDimEnabled">true</item>
     </style>
 ```
 
