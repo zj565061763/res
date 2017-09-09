@@ -1,4 +1,5 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
 apply plugin: 'com.github.dcendents.android-maven'
 
 android {
@@ -9,7 +10,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 20170909
-        versionName "1.0.5"
+        versionName "1.0.3"
     }
     buildTypes {
         release {
@@ -29,3 +30,19 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.2.0'
 }
 
+publish {
+    userOrg = 'zj565061763'
+    groupId = 'com.fanwe.android'
+    artifactId = 'res'
+    publishVersion = '1.0.3'
+    desc = 'android res library'
+    website = 'https://github.com/zj565061763/res'
+}
+
+tasks.withType(Javadoc) {
+    options {
+        encoding "UTF-8"
+        charSet 'UTF-8'
+        failOnError false
+    }
+}
