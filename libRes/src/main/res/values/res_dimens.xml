@@ -35,11 +35,4 @@
     <!-- 按钮高度 -->
     <dimen name="res_height_button">40dp</dimen>
 
-    <!-- dialog的item高度 -->
-    <dimen name="res_height_dialog_item">40dp</dimen>
-    <!-- dialog的按钮字体大小 -->
-    <dimen name="res_text_dialog_button">14sp</dimen>
-    <!-- dialog的标题字体大小 -->
-    <dimen name="res_text_dialog_title">16sp</dimen>
-
 </resources>
