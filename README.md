@@ -1,5 +1,19 @@
+# About
+[![](https://jitpack.io/v/zj565061763/res.svg)](https://jitpack.io/#zj565061763/res)
+
 ## Gradle
-`compile 'com.fanwe.android:res:1.0.1'`
+```java
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+dependencies {
+	        compile 'com.github.zj565061763:res:1.0.2'
+	}
+```
 
 ## res_colors_base.xml
 ```xml
