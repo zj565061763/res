@@ -1,5 +1,5 @@
 ## Gradle
-`compile 'com.fanwe.android:res:1.0.3'`
+`compile 'com.fanwe.android:res:1.0.4'`
 
 ## res_colors_base.xml
 ```xml
