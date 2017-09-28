@@ -8,7 +8,7 @@ allprojects {
 }
 
 dependencies {
-        compile 'com.github.zj565061763:res:1.0.5'
+        compile 'com.github.zj565061763:res:1.0.6'
 }
 
 ```
