@@ -1,5 +1,17 @@
 ## Gradle
-`compile 'com.fanwe.android:res:1.0.4'`
+```
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+dependencies {
+        compile 'com.github.zj565061763:res:1.0.5'
+}
+
+```
 
 ## res_colors_base.xml
 ```xml
