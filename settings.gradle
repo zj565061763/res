@@ -1,1 +1,1 @@
-include ':app', ':libRes'
+include ':app', ':lib'
