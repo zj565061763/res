@@ -1,17 +1,5 @@
 ## Gradle
-```
-allprojects {
-    repositories {
-        ...
-        maven { url 'https://jitpack.io' }
-    }
-}
-
-dependencies {
-        compile 'com.github.zj565061763:res:1.0.6'
-}
-
-```
+[![](https://jitpack.io/v/zj565061763/res.svg)](https://jitpack.io/#zj565061763/res)
 
 ## res_colors_base.xml
 ```xml
