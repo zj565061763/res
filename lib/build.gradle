@@ -9,7 +9,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 20171122
-        versionName "1.0.7"
+        versionName "1.0.8"
     }
     buildTypes {
         release {
@@ -25,5 +25,5 @@ android {
 }
 
 dependencies {
-    api 'com.android.support:appcompat-v7:26.1.0'
+    compile 'com.android.support:appcompat-v7:26.1.0'
 }
