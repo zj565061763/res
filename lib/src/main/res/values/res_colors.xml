@@ -13,12 +13,12 @@
     <!-- activity背景颜色 -->
     <color name="res_bg_activity">#f7f7f7</color>
     <!-- 标题栏颜色 -->
-    <color name="res_bg_titlebar">@color/res_main_color</color>
+    <color name="res_bg_title_bar">@color/res_main_color</color>
     <!-- 标题栏按下颜色 -->
-    <color name="res_bg_titlebar_pressed">@color/res_main_color_press</color>
+    <color name="res_bg_title_bar_pressed">@color/res_main_color_press</color>
 
     <!-- 标题栏文字颜色 -->
-    <color name="res_text_titlebar">@color/white</color>
+    <color name="res_text_title_bar">@color/white</color>
 
     <!-- 灰色文字（深） -->
     <color name="res_text_gray_l">#333333</color>
