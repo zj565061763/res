@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <style name="res_text_title_bar_base" parent="res_text_base">
+        <item name="android:maxLines">1</item>
+    </style>
+
     <!-- 标题栏文字 -->
-    <style name="res_text_title_bar" parent="res_text_base">
+    <style name="res_text_title_bar" parent="res_text_title_bar_base">
         <item name="android:textColor">@color/res_text_title_bar</item>
         <item name="android:textSize">@dimen/res_text_title_bar</item>
-        <item name="android:ellipsize">end</item>
     </style>
 
     <!-- 标题栏较小文字 -->
-    <style name="res_text_title_bar_sub" parent="res_text_base">
+    <style name="res_text_title_bar_sub" parent="res_text_title_bar_base">
         <item name="android:textColor">@color/res_text_title_bar_sub</item>
         <item name="android:textSize">@dimen/res_text_title_bar_sub</item>
-        <item name="android:ellipsize">end</item>
     </style>
 
 </resources>
