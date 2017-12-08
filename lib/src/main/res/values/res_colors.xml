@@ -25,7 +25,7 @@
     <!-- 标题栏文字颜色 -->
     <color name="res_text_title_bar">@color/white</color>
     <!-- 标题栏较小的文字颜色 -->
-    <color name="res_text_title_bar_sub">@color/white</color>
+    <color name="res_text_title_bar_sub">@color/res_text_title_bar</color>
 
     <!-- 灰色文字（深） -->
     <color name="res_text_gray_l">#333333</color>
