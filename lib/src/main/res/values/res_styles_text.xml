@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <style name="res_text_base"></style>
+    <style name="res_text_base">
+        <item name="android:ellipsize">end</item>
+    </style>
 
     <style name="res_text" parent="res_text_base">
         <item name="android:text">@string/res_loading</item>
         <item name="android:textColor">@color/res_text_gray_m</item>
         <item name="android:textSize">@dimen/res_text_m</item>
-        <item name="android:ellipsize">end</item>
     </style>
 
     <style name="res_text_shadow" parent="res_text">
