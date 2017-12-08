@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <style name="res.Text.Base">
-    </style>
+    <style name="res_text_base"></style>
 
-    <style name="res.Text" parent="res.Text.Base">
+    <style name="res_text" parent="res_text_base">
         <item name="android:text">@string/res_loading</item>
         <item name="android:textColor">@color/res_text_gray_m</item>
         <item name="android:textSize">@dimen/res_text_m</item>
         <item name="android:ellipsize">end</item>
     </style>
 
-    <style name="res.Text.Shadow" parent="res.Text">
+    <style name="res_text_shadow" parent="res_text">
         <item name="android:shadowColor">@color/res_text_shadow_color</item>
         <item name="android:shadowRadius">1</item>
         <item name="android:shadowDy">2</item>
