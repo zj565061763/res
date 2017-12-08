@@ -1,7 +1,7 @@
 <resources>
 
     <!-- 标题栏高度 -->
-    <dimen name="res_height_titleBar">45dp</dimen>
+    <dimen name="res_height_title_bar">45dp</dimen>
 
     <!-- 边框宽度 -->
     <dimen name="res_stroke_s">1px</dimen>
