@@ -3,6 +3,7 @@
 
     <style name="res_edit_base"></style>
 
+    <!-- 输入框 -->
     <style name="res_edit" parent="res_edit_base">
         <item name="android:textColor">@color/res_text_gray_m</item>
         <item name="android:textSize">@dimen/res_text_m</item>

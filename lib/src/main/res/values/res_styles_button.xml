@@ -3,6 +3,7 @@
 
     <style name="res_button_base"></style>
 
+    <!-- 按钮 -->
     <style name="res_button" parent="res_button_base">
         <item name="android:gravity">center</item>
         <item name="android:textSize">@dimen/res_text_m</item>

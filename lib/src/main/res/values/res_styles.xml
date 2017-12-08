@@ -2,6 +2,7 @@
 
     <style name="res_theme_base" parent="Theme.AppCompat.Light.DarkActionBar"></style>
 
+    <!-- app主题 -->
     <style name="res_theme_app" parent="res_theme_base">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
