@@ -1,19 +1,8 @@
 ## Gradle
 [![](https://jitpack.io/v/zj565061763/res.svg)](https://jitpack.io/#zj565061763/res)
 
-## res_colors_base.xml
-```xml
-    <color name="black">#000000</color>
-    <color name="white">#FFFFFF</color>
-    <color name="gray">#888888</color>
-    <color name="red">#FF0000</color>
-    <color name="orange">#FFA500</color>
-    <color name="yellow">#FFFF00</color>
-    <color name="green">#00FF00</color>
-    <color name="blue">#0000FF</color>
-    <!-- 透明 -->
-    <color name="transparent">#00000000</color>
-```
+## Detail
+[res_color_base](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_color_base.xml)
 
 ## res_colors.xml
 ```xml
