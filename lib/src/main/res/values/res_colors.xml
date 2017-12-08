@@ -8,10 +8,12 @@
 
     <!-- 副主题色 -->
     <color name="res_second_color">#fee203</color>
+    <!-- 副主题色按下颜色 -->
     <color name="res_second_color_press">@color/res_second_color</color>
 
     <!-- activity背景颜色 -->
     <color name="res_bg_activity">#f7f7f7</color>
+
     <!-- 标题栏颜色 -->
     <color name="res_bg_title_bar">@color/res_main_color</color>
     <!-- 标题栏按下颜色 -->
@@ -19,6 +21,8 @@
 
     <!-- 标题栏文字颜色 -->
     <color name="res_text_title_bar">@color/white</color>
+    <!-- 标题栏较小的文字颜色 -->
+    <color name="res_text_title_bar_sub">@color/white</color>
 
     <!-- 灰色文字（深） -->
     <color name="res_text_gray_l">#333333</color>

@@ -13,4 +13,18 @@
         <item name="android:height">@dimen/res_height_title_bar_item_image</item>
     </style>
 
+    <!-- 标题栏文字 -->
+    <style name="res_text_title_bar" parent="res_text_base">
+        <item name="android:textColor">@color/res_text_title_bar</item>
+        <item name="android:textSize">@dimen/res_text_title_bar</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <!-- 标题栏较小文字 -->
+    <style name="res_text_title_bar_sub" parent="res_text_base">
+        <item name="android:textColor">@color/res_text_title_bar_sub</item>
+        <item name="android:textSize">@dimen/res_text_title_bar_sub</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
 </resources>

@@ -15,7 +15,7 @@
     <!-- 标题栏文字大小 -->
     <dimen name="res_text_title_bar">18sp</dimen>
     <!-- 标题栏较小的文字大小 -->
-    <dimen name="res_text_sub_title_bar">16sp</dimen>
+    <dimen name="res_text_title_bar_sub">16sp</dimen>
     <!-- 标题栏item的最小宽度 -->
     <dimen name="res_width_title_bar_item">40dp</dimen>
     <!-- 标题栏icon图标的宽度 -->
