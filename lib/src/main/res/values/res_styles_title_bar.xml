@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- 标题栏item -->
-    <style name="res_title_bar_item">
-        <item name="android:minWidth">@dimen/res_width_title_bar_item</item>
-        <item name="android:background">@drawable/res_sel_title_bar_item</item>
-    </style>
-
-    <!-- 标题栏item图片 -->
-    <style name="res_title_bar_item_image">
-        <item name="android:width">@dimen/res_width_title_bar_item_image</item>
-        <item name="android:height">@dimen/res_height_title_bar_item_image</item>
-    </style>
-
     <!-- 标题栏文字 -->
     <style name="res_text_title_bar" parent="res_text_base">
         <item name="android:textColor">@color/res_text_title_bar</item>

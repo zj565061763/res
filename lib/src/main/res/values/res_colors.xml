@@ -16,8 +16,11 @@
 
     <!-- 标题栏颜色 -->
     <color name="res_bg_title_bar">@color/res_main_color</color>
-    <!-- 标题栏按下颜色 -->
-    <color name="res_bg_title_bar_pressed">@color/res_main_color_press</color>
+
+    <!-- 标题栏item背景颜色 -->
+    <color name="res_bg_title_bar_item">@color/res_main_color</color>
+    <!-- 标题栏item按下背景颜色 -->
+    <color name="res_bg_title_bar_item_press">@color/res_main_color_press</color>
 
     <!-- 标题栏文字颜色 -->
     <color name="res_text_title_bar">@color/white</color>
