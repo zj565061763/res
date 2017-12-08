@@ -13,15 +13,15 @@
     <dimen name="res_corner_l">30dp</dimen>
 
     <!-- 标题栏文字大小 -->
-    <dimen name="res_text_titleBar">18sp</dimen>
+    <dimen name="res_text_titlebar">18sp</dimen>
     <!-- 标题栏较小的文字大小 -->
-    <dimen name="res_text_sub_titleBar">16sp</dimen>
+    <dimen name="res_text_sub_titlebar">16sp</dimen>
     <!-- 标题栏item的最小宽度 -->
-    <dimen name="res_width_titleBar_item">40dp</dimen>
+    <dimen name="res_width_titlebar_item">40dp</dimen>
     <!-- 标题栏icon图标的宽度 -->
-    <dimen name="res_width_titleBar_item_image">20dp</dimen>
+    <dimen name="res_width_titlebar_item_image">20dp</dimen>
     <!-- 标题栏icon图标的高度 -->
-    <dimen name="res_height_titleBar_item_image">20dp</dimen>
+    <dimen name="res_height_titlebar_item_image">20dp</dimen>
 
     <!-- 标题文字（大） -->
     <dimen name="res_text_l">16sp</dimen>
