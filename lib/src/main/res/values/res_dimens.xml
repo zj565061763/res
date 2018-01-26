@@ -1,8 +1,5 @@
 <resources>
 
-    <!-- 标题栏高度 -->
-    <dimen name="res_height_title_bar">45dp</dimen>
-
     <!-- 边框宽度 -->
     <dimen name="res_stroke_s">1px</dimen>
     <dimen name="res_stroke_m">1dp</dimen>
@@ -11,17 +8,6 @@
     <dimen name="res_corner_s">5dp</dimen>
     <dimen name="res_corner_m">10dp</dimen>
     <dimen name="res_corner_l">30dp</dimen>
-
-    <!-- 标题栏文字大小 -->
-    <dimen name="res_text_title_bar">18sp</dimen>
-    <!-- 标题栏较小的文字大小 -->
-    <dimen name="res_text_title_bar_sub">16sp</dimen>
-    <!-- 标题栏item的最小宽度 -->
-    <dimen name="res_width_title_bar_item">40dp</dimen>
-    <!-- 标题栏icon图标的宽度 -->
-    <dimen name="res_width_title_bar_item_image">20dp</dimen>
-    <!-- 标题栏icon图标的高度 -->
-    <dimen name="res_height_title_bar_item_image">20dp</dimen>
 
     <!-- 标题文字（大） -->
     <dimen name="res_text_l">16sp</dimen>
