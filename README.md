@@ -19,6 +19,3 @@
 [res_styles_edit](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_styles_edit.xml)
 <br>
 [res_styles_text](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_styles_text.xml)
-<br>
-[res_styles_title_bar](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_styles_title_bar.xml)
-
