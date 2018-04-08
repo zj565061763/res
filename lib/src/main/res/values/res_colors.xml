@@ -37,4 +37,9 @@
     <!-- 文字阴影颜色 -->
     <color name="res_text_shadow_color">#333333</color>
 
+    <!-- 输入框获得焦点的颜色 -->
+    <color name="res_edit_focus">@color/res_main_color</color>
+    <!-- 输入框未获得焦点的颜色 -->
+    <color name="res_edit_unfocus">@color/res_stroke</color>
+
 </resources>
