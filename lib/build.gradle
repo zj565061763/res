@@ -8,8 +8,8 @@ android {
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 22
-        versionCode 20180414
-        versionName "1.0.14"
+        versionCode 20180416
+        versionName "1.0.15"
     }
     buildTypes {
         release {
@@ -25,5 +25,5 @@ android {
 }
 
 dependencies {
-    api 'com.android.support:appcompat-v7:26.1.0'
+    compileOnly 'com.android.support:appcompat-v7:26.1.0'
 }
