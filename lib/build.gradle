@@ -25,5 +25,4 @@ android {
 }
 
 dependencies {
-    api 'com.android.support:appcompat-v7:27.1.1'
 }
