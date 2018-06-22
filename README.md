@@ -1,5 +1,4 @@
 # Gradle
-[![](https://jitpack.io/v/zj565061763/res.svg)](https://jitpack.io/#zj565061763/res)
 ```
 implementation 'com.fanwe.android:res:1.0.17'
 ```
