@@ -1,7 +1,5 @@
 # Gradle
-```
-implementation 'com.fanwe.android:res:1.0.17'
-```
+[![](https://jitpack.io/v/zj565061763/res.svg)](https://jitpack.io/#zj565061763/res)
 
 # Detail
 [res_color_base](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_color_base.xml)
