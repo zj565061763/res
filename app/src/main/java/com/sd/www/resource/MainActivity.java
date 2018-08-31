@@ -1,4 +1,4 @@
-package com.fanwe.www.resource;
+package com.sd.www.resource;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
