@@ -23,9 +23,13 @@
 
     <!-- 按钮不可用的文字颜色 -->
     <color name="res_text_button_disable">#e7e7f1</color>
-
     <!-- 按钮不可用的背景颜色 -->
     <color name="res_bg_button_disable">#cbcbcb</color>
+
+    <!-- 选项卡正常状态颜色 -->
+    <color name="res_text_tab_normal">@color/res_text_gray_s</color>
+    <!-- 选项卡选中状态颜色 -->
+    <color name="res_text_tab_selected">@color/res_main_color</color>
 
     <!-- 黑色模糊（中） -->
     <color name="res_blur_m">#70000000</color>
