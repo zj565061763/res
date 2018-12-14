@@ -22,9 +22,9 @@
     <color name="res_text_gray_s">#999999</color>
 
     <!-- 按钮不可用的文字颜色 -->
-    <color name="res_text_button_disable">#e7e7f1</color>
+    <color name="res_text_button_disable">@color/res_text_gray_l</color>
     <!-- 按钮不可用的背景颜色 -->
-    <color name="res_bg_button_disable">#cbcbcb</color>
+    <color name="res_bg_button_disable">#e8e8e8</color>
 
     <!-- 选项卡正常状态颜色 -->
     <color name="res_text_tab_normal">@color/res_text_gray_s</color>
