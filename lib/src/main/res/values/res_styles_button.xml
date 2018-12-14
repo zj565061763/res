@@ -11,4 +11,10 @@
         <item name="android:minHeight">@dimen/res_height_button</item>
     </style>
 
+    <!-- 主题色按钮 -->
+    <style name="res_button_main_color" parent="res_button">
+        <item name="android:background">@drawable/res_sel_button_main_color</item>
+        <item name="android:textColor">@color/res_sel_text_button_disable_white_enabled</item>
+    </style>
+
 </resources>
