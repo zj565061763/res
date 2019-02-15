@@ -2,8 +2,6 @@
 [![](https://jitpack.io/v/zj565061763/res.svg)](https://jitpack.io/#zj565061763/res)
 
 # Detail
-[res_color_base](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_color_base.xml)
-<br>
 [res_colors](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_colors.xml)
 <br>
 [res_dimens](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_dimens.xml)
