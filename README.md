@@ -8,8 +8,6 @@
 <br>
 [res_strings](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_strings.xml)
 <br>
-[res_styles](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_styles.xml)
-<br>
 [res_styles_anim](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_styles_anim.xml)
 <br>
 [res_styles_button](https://github.com/zj565061763/res/blob/master/lib/src/main/res/values/res_styles_button.xml)
