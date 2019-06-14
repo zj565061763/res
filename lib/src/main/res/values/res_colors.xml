@@ -17,6 +17,11 @@
     <!-- 主题颜色按下颜色 -->
     <color name="res_main_color_press">#ffcc66</color>
 
+    <!-- 主题色渐变起始颜色 -->
+    <color name="res_main_color_start">@color/res_main_color</color>
+    <!-- 主题色渐变结束颜色 -->
+    <color name="res_main_color_end">@color/res_main_color</color>
+
     <!-- 副主题色 -->
     <color name="res_second_color">#fee203</color>
     <!-- 副主题色按下颜色 -->
