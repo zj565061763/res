@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="0"
+                android:endColor="@color/res_main_color_end"
+                android:startColor="@color/res_main_color_start" />
+
+            <corners android:radius="@dimen/res_corner_progress_bar" />
+        </shape>
+    </item>
+
+</layer-list>

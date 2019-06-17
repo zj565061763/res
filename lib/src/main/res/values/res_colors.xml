@@ -68,4 +68,7 @@
     <!-- 输入框未获得焦点的颜色 -->
     <color name="res_edit_unfocus">@color/res_stroke</color>
 
+    <!-- 进度条背景颜色 -->
+    <color name="res_progress_bar_background">@color/res_text_gray_s</color>
+
 </resources>

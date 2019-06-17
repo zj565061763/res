@@ -8,6 +8,7 @@
     <dimen name="res_corner_s">5dp</dimen>
     <dimen name="res_corner_m">10dp</dimen>
     <dimen name="res_corner_l">30dp</dimen>
+    <dimen name="res_corner_progress_bar">5dp</dimen>
 
     <!-- 标题文字（大） -->
     <dimen name="res_text_l">16sp</dimen>
