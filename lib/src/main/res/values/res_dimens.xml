@@ -21,5 +21,7 @@
     <dimen name="res_height_edit">40dp</dimen>
     <!-- 按钮高度 -->
     <dimen name="res_height_button">40dp</dimen>
+    <!-- seekbar默认高度 -->
+    <dimen name="res_height_seek_bar">2dp</dimen>
 
 </resources>
