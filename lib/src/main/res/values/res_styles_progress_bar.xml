@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <style name="res_progress_bar_base"></style>
+    <style name="res_progress_bar_base" parent="android:Widget.ProgressBar.Horizontal"></style>
 
     <style name="res_progress_bar" parent="res_progress_bar_base">
         <item name="android:progressDrawable">@drawable/res_progress_bar_drawable_main_color</item>
