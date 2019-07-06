@@ -3,12 +3,7 @@
 
     <item>
         <shape android:shape="rectangle">
-            <solid android:color="@color/res_blur_m"/>
-
-            <stroke
-                android:width="@dimen/res_stroke_m"
-                android:color="@color/white"/>
-
+            <solid android:color="@color/res_blur"/>
             <corners android:radius="@dimen/res_corner_l"/>
         </shape>
     </item>
