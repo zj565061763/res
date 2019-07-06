@@ -6,7 +6,7 @@
         android:drawable="@drawable/res_progress_bar_background" />
 
     <item android:id="@android:id/progress">
-        <clip android:drawable="@drawable/res_progress_bar_progress_main_color" />
+        <clip android:drawable="@drawable/res_progress_bar_progress" />
     </item>
 
 </layer-list>

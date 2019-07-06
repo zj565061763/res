@@ -4,16 +4,10 @@
     <style name="res_seek_bar_base"></style>
 
     <style name="res_seek_bar" parent="res_seek_bar_base">
-        <item name="android:progressDrawable">@drawable/res_progress_bar_drawable_main_color</item>
+        <item name="android:progressDrawable">@drawable/res_progress_bar_drawable</item>
         <item name="android:max">100</item>
         <item name="android:minHeight">@dimen/res_height_seek_bar</item>
         <item name="android:maxHeight">@dimen/res_height_seek_bar</item>
-    </style>
-
-    <style name="res_seek_bar_gradient" parent="res_seek_bar">
-        <item name="android:progressDrawable">
-            @drawable/res_progress_bar_drawable_main_color_gradient
-        </item>
     </style>
 
 </resources>
