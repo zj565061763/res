@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="res_colors_attr">
+        <attr name="res_color_main" format="color|reference"></attr>
+        <attr name="res_color_main_press" format="color|reference"></attr>
+        <attr name="res_color_main_start" format="color|reference"></attr>
+        <attr name="res_color_main_end" format="color|reference"></attr>
+
+        <attr name="res_color_second" format="color|reference"></attr>
+        <attr name="res_color_second_press" format="color|reference"></attr>
+
+        <attr name="res_color_bg_activity" format="color|reference"></attr>
+
+        <attr name="res_color_text_gray_l" format="color|reference"></attr>
+        <attr name="res_color_text_gray_m" format="color|reference"></attr>
+        <attr name="res_color_text_gray_s" format="color|reference"></attr>
+
+        <attr name="res_color_text_button_disable" format="color|reference"></attr>
+        <attr name="res_color_bg_button_disable" format="color|reference"></attr>
+
+        <attr name="res_color_text_tab_normal" format="color|reference"></attr>
+        <attr name="res_color_text_tab_selected" format="color|reference"></attr>
+
+        <attr name="res_color_blur" format="color|reference"></attr>
+        <attr name="res_color_text_hint" format="color|reference"></attr>
+        <attr name="res_color_stroke" format="color|reference"></attr>
+        <attr name="res_color_stroke_deep" format="color|reference"></attr>
+        <attr name="res_color_gray_press" format="color|reference"></attr>
+        <attr name="res_color_text_shadow" format="color|reference"></attr>
+
+        <attr name="res_color_edit_focus" format="color|reference"></attr>
+        <attr name="res_color_edit_unfocus" format="color|reference"></attr>
+
+        <attr name="res_color_progress_bar_background" format="color|reference"></attr>
+    </declare-styleable>
+
+</resources>

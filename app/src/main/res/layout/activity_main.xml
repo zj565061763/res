@@ -20,6 +20,7 @@
             android:background="@drawable/res_layer_gray"
             android:gravity="center"
             android:minHeight="30dp"
+            android:textColor="?attr/res_color_main"
             android:text="res_layer_gray"/>
 
         <TextView

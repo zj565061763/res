@@ -3,11 +3,4 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-
-    <color name="res_stroke">@color/black</color>
-
-    <!-- 主题色渐变起始颜色 -->
-    <color name="res_main_color_start">@color/colorPrimary</color>
-    <!-- 主题色渐变结束颜色 -->
-    <color name="res_main_color_end">@color/colorAccent</color>
 </resources>

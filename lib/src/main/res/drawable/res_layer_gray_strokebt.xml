@@ -3,14 +3,14 @@
 
     <item>
         <shape android:shape="rectangle">
-            <solid android:color="@color/res_stroke"/>
+            <solid android:color="@color/res_color_stroke"/>
         </shape>
     </item>
     <item
         android:bottom="@dimen/res_stroke_s"
         android:top="@dimen/res_stroke_s">
         <shape android:shape="rectangle">
-            <solid android:color="@color/res_gray_press"/>
+            <solid android:color="@color/res_color_gray_press"/>
         </shape>
     </item>
 

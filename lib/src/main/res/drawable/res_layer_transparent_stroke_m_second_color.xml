@@ -7,7 +7,7 @@
 
             <stroke
                 android:width="@dimen/res_stroke_m"
-                android:color="@color/res_second_color"/>
+                android:color="@color/res_color_second"/>
         </shape>
     </item>
 
